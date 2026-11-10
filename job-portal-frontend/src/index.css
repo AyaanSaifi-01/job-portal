@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+*{
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: inter, "inter Fallback", system-ui;
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 28px;
+  color: #e5e7eb;
+}

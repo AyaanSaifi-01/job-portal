@@ -1,0 +1,27 @@
+
+# Backend - Spring Boot
+job-portal-backend/target/
+job-portal-backend/.idea/
+job-portal-backend/*.iml
+
+# Frontend - React / Vite
+job-portal-frontend/node_modules/
+job-portal-frontend/dist/
+job-portal-frontend/.vite/
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+**/.env
+**/.env.*
+
+# Logs
+*.log
+logs/
+
+# IDE and OS files
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
